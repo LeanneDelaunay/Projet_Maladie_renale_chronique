@@ -5,4 +5,4 @@ Le dataset utilisé est disponible publiquement sur le site [UCI Machine Learnin
 
 Pour répondre à cette problématique de classification binaire, après une analyse exploratoire, plusieurs modèles ont été entrainés ( SVM, Random Forest, Régression Logistique).
 
-La Random Forest a été sélectionnée pour ces résultats performant puis interpréter.
+La Random Forest a été sélectionnée pour ces résultats performant puis interprétée.
